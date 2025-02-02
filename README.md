@@ -10,4 +10,5 @@ sical Preprocessing for input preparation, Quantum Computation for period findin
 controlled modular multiplication, and Classical Post-Processing to recover prime factors. Our
 approach [1] optimizes qubits, reduces circuit depth, and enhances gate efficiency, making quantum
 factorization more practical for current quantum architectures.
+
 The main implementation is in [`QuFacto.ipynb`](QuFacto.ipynb).
