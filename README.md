@@ -1,4 +1,4 @@
-# 2025_MIT-QuantumRing_Remote![截圖 2025-02-02 晚上7 29 25](https://github.com/user-attachments/assets/26b933ff-33ff-499f-b078-d4462c7f22c9)
+# Quantum Factorization with Less Qubits![截圖 2025-02-02 晚上7 29 25](https://github.com/user-attachments/assets/26b933ff-33ff-499f-b078-d4462c7f22c9)
 Shor’s algorithm, introduced in 1994, demonstrated polynomial-time integer factorization, pre-
 senting a potential threat to classical cryptography. Despite advances in optimizing the algorithm,
 its practical application remains hindered by the significant resources required for fault-tolerant
