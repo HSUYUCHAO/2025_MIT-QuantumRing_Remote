@@ -1,0 +1,2 @@
+QuantumRingsLib==0.9.11
+matplotlib==3.10.0
